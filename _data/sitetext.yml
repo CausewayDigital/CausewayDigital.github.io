@@ -1,0 +1,155 @@
+header:
+    title: Welcome to Causeway Digital
+    text: We build game based adventures!
+    button: Tell Me More
+    buttonlink: "#services" # "#{section}" or "URL/page link"
+
+services:
+    title: "What we do"
+    text: "We build game-based learning experiences for classrooms across the world. Partnering with Mojang and Microsoft, to create exciting content for educators."
+    section: services
+    list:
+      - title: "Educational Minecraft content creation"
+        desc: "We are Minecraft Education Edition Partners, having worked with the teams at Microsoft and Mojang to build content for classrooms across the world."
+        icon: fas fa-school #find more at https://fontawesome.com/icons
+      - title: "Introduction to coding content building"
+        desc: "With many years of coding education experience between the team, we specilise in building content to help new coders to get started quickly, through game based experiences."
+        icon: fas fa-code
+      - title: "Java/Bedrock Minecraft content creation"
+        desc: "As well as experience with the Education Edition of Minecraft, the team has significant experience building content for both Java and Bedrock based versions of Minecraft."
+        icon: fas fa-cubes
+
+portfolio:
+    title: "Portfolio"
+    text: "Interested in some of the projects we have worked on? Take a look below."
+    section: portfolio
+
+
+timeline:
+    title: "About"
+    text: "Lorem ipsum timeline"
+    section: timeline
+
+
+about:
+    title: "About Us"
+    text: "our story"
+    section: about
+
+clients:
+    section: clients
+    max-height: 200px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "Microsoft"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/microsoft.png
+      - title: "Mojang"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/mojang.png
+      - title: "Minecraft Education Edition"
+        url:
+        logo: assets/img/clients/minecraft_education.png
+      - title: ""
+        url:
+        logo:
+
+team:
+    title: "The team"
+    text: "Causeway Digital is made up a diverse group of young people specilising in education content development, software development, storyline development and art/design."
+    subtext:
+    section: team
+    people:
+      - name: "Andrew Mulholland"
+        role: "Managing Director"
+        image: assets/img/team/andrew.jpg
+        social:
+          - url: https://twitter.com/gbaman1
+            icon: fab fa-twitter
+          - url: https://github.com/gbaman
+            icon: fab fa-github
+      - name: "Bethanie Fentiman"
+        role: "Project Manager"
+        image: assets/img/team/bethanie.jpg
+        social:
+          - url: https://twitter.com/bfentiman
+            icon: fab fa-twitter
+          - url: https://github.com/bfentiman
+            icon: fab fa-github
+      - name: "Sam Stuart"
+        role: "Developer"
+        image: assets/img/team/sam.jpg
+        social:
+          - url: https://twitter.com/tenthchain
+            icon: fab fa-twitter
+          - url: https://github.com/TenthChain
+            icon: fab fa-github
+      - name: "Dan Mather"
+        role: "Developer"
+        image: assets/img/team/dan.jpg
+        social:
+          - url: https://github.com/spaghettifi
+            icon: fab fa-github
+      - name: "Dervla O'Brien"
+        role: "Developer"
+        image: assets/img/team/dervla.jpg
+        social:
+          - url: https://twitter.com/DervlaOBrien
+            icon: fab fa-twitter
+          - url: https://github.com/Derds
+            icon: fab fa-github
+      - name: "Vincent Lee"
+        role: "Developer"
+        image: assets/img/team/vincent.jpg
+        social:
+          - url: https://twitter.com/vlee888
+            icon: fab fa-twitter
+          - url: https://github.com/vlee489
+            icon: fab fa-github
+      #- name: "James Dougan"
+      #  role: "Developer"
+      #  image: assets/img/team/james.jpg
+      #  social:
+      #    - url: https://github.com/https://github.com/Jdplays
+      #      icon: fab fa-github
+      - name: "Hannah McMullan"
+        role: "Developer & Artist"
+        image: assets/img/team/hannah.jpg
+        social:
+          - url: https://github.com/HannaHGM
+            icon: fab fa-github
+      - name: "Kerry Kidd"
+        role: "Copy Editor and Playtester"
+        image: assets/img/team/kerry.jpg
+        social:
+          - url: https://twitter.com/RaspiKidd
+            icon: fab fa-twitter
+          - url: https://github.com/RaspiKidd
+            icon: fab fa-github
+      - name: "Claire Mulholland"
+        role: "Storyteller"
+        image: assets/img/team/claire.jpg
+        social:
+          - url: https://twitter.com/Baker_Geek
+            icon: fab fa-twitter
+          - url: https://github.com/Zarinie
+            icon: fab fa-github
+
+contact:
+    title: "Contact Us"
+    text: "Lorem ipsum or call 123456789"
+    section: contact
+
+footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://twitter.com/CausewayDi
+        icon: "fab fa-twitter"
+      - url: https://github.com/CausewayDigital
+        icon: "fab fa-github"
+      - url: mailto:info@causewaydigital.io
+        icon: "fas fa-envelope"
+
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}

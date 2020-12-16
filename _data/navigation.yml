@@ -1,0 +1,9 @@
+nav:
+  - title: "Services"
+    section: services
+
+  - title: "Portfolio"
+    section: portfolio
+
+  - title: "Team"
+    section: team
