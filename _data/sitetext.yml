@@ -115,7 +115,9 @@ team:
       - name: "Hannah McMullan"
         role: "Developer & Artist"
         image: assets/img/team/hannah.jpg
-        social:
+        social: 
+          - url: https://twitter.com/han_aish
+            icon: fab fa-twitter
           - url: https://github.com/HannaHGM
             icon: fab fa-github
       - name: "Kerry Kidd"
