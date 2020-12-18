@@ -13,7 +13,7 @@ services:
         desc: "We are Minecraft Education Edition Partners, having worked with the teams at Microsoft and Mojang to build content for classrooms across the world."
         icon: fas fa-school #find more at https://fontawesome.com/icons
       - title: "Introduction to coding content building"
-        desc: "With many years of coding education experience between the team, we specilise in building content to help new coders to get started quickly, through game based experiences."
+        desc: "With many years of coding education experience between the team, we specialise in building content to help new coders to get started quickly, through game based experiences."
         icon: fas fa-code
       - title: "Java/Bedrock Minecraft content creation"
         desc: "As well as experience with the Education Edition of Minecraft, the team has significant experience building content for both Java and Bedrock based versions of Minecraft."
