@@ -90,13 +90,13 @@ team:
         social:
           - url: https://github.com/spaghettifi
             icon: fab fa-github
-      - name: "Dervla O'Brien"
+      - name: "Abbie Welch"
         role: "Developer"
-        image: assets/img/team/dervla.jpg
+        image: assets/img/team/abbie.jpg
         social:
-          - url: https://twitter.com/DervlaOBrien
+          - url: https://twitter.com/abee_364
             icon: fab fa-twitter
-          - url: https://github.com/Derds
+          - url: https://github.com/abee364
             icon: fab fa-github
       - name: "Vincent Lee"
         role: "Developer"
