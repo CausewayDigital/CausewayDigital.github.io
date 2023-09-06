@@ -107,9 +107,11 @@ team:
           - url: https://github.com/vlee489
             icon: fab fa-github
       - name: "James Dougan"
-        role: "Developer"
+        role: "Senior Developer"
         image: assets/img/team/james.jpg
         social:
+          - url: https://twitter.com/james_dougan_
+            icon: fab fa-twitter
           - url: https://github.com/Jdplays
             icon: fab fa-github
       - name: "Hannah McMullan"
