@@ -76,6 +76,14 @@ team:
             icon: fab fa-twitter
           - url: https://github.com/bfentiman
             icon: fab fa-github
+      - name: "James Dougan"
+        role: "Senior Developer"
+        image: assets/img/team/james.jpg
+        social:
+          - url: https://twitter.com/james_dougan_
+            icon: fab fa-twitter
+          - url: https://github.com/Jdplays
+            icon: fab fa-github
       - name: "Sam Stuart"
         role: "Developer"
         image: assets/img/team/sam.jpg
@@ -105,14 +113,6 @@ team:
           - url: https://twitter.com/vlee888
             icon: fab fa-twitter
           - url: https://github.com/vlee489
-            icon: fab fa-github
-      - name: "James Dougan"
-        role: "Senior Developer"
-        image: assets/img/team/james.jpg
-        social:
-          - url: https://twitter.com/james_dougan_
-            icon: fab fa-twitter
-          - url: https://github.com/Jdplays
             icon: fab fa-github
       - name: "Hannah McMullan"
         role: "Developer & Artist"
