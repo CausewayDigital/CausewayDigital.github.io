@@ -41,18 +41,18 @@ clients:
     max-height: 200px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "Microsoft"
-        url: https://www.microsoft.com/education
-        logo: assets/img/clients/microsoft.png
-      - title: "Mojang"
-        url: https://www.minecraft.net
-        logo: assets/img/clients/mojang.png
+      - title: "Minecraft Marketplace Partner"
+        url: https://www.minecraft.net/en-us/marketplace
+        logo: assets/img/clients/minecraft_partner.png
       - title: "Minecraft Education Edition"
         url: https://education.minecraft.net
         logo: assets/img/clients/minecraft_education.png
-      - title: "FIU"
+      - title: "Florida International University"
         url: https://www.fiu.edu/
         logo: assets/img/clients/FIU.png
+      - title: "Mozilla Foundation"
+        url: https://foundation.mozilla.org/en/
+        logo: assets/img/clients/mozilla.png
 
 team:
     title: "The team"
