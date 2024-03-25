@@ -47,12 +47,12 @@ clients:
       - title: "Minecraft Education Edition"
         url: https://education.minecraft.net
         logo: assets/img/clients/minecraft_education.png
-      - title: "Florida International University"
-        url: https://www.fiu.edu/
-        logo: assets/img/clients/fiu.png
       - title: "Mozilla Foundation"
         url: https://foundation.mozilla.org/en/
         logo: assets/img/clients/mozilla.png
+      - title: "Florida International University"
+        url: https://www.fiu.edu/
+        logo: assets/img/clients/fiu.png
 
 team:
     title: "The team"
