@@ -1,12 +1,12 @@
 ---
 title: Seymour Island
-subtitle: A multiplayer introduction to coding in Minecraft Education Edition.
+subtitle: A multiplayer introduction to coding in Minecraft Education.
 image: assets/img/portfolio/seymour_island.jpg
 alt: Seymour Island Minecraft world
 
 caption:
   title: Seymour Island
-  subtitle: A multiplayer introduction to coding in Minecraft Education Edition.
+  subtitle: A multiplayer introduction to coding in Minecraft Education.
   thumbnail: assets/img/portfolio/seymour_island.jpg
 ---
 This 2-3 hour activity will bring a class of students on a coding adventure. Initially beginning on the high seas, with Captain Papert, the students will eventually find themselves shipwrecked on Seymour Island.
@@ -16,10 +16,10 @@ The tasks are available to students in MakeCode Blocks or Azure Notebooks Python
 
 After the major success of the world, Microsoft commissioned an upgraded version using Azure Notebooks Python in August 2021.
 
-The lesson can be downloaded from the [Minecraft Education Edition world library](https://education.minecraft.net/lessons/seymour-island).
+The lesson can be downloaded from the [Minecraft Education world library](https://education.minecraft.net/lessons/seymour-island).
 
 {:.list-inline}
 - Date: June 2020, August 2021
 - Client: Microsoft / Mojang
-- Category: Minecraft Education Edition
+- Category: Minecraft Education
 - Source: [Github](https://github.com/CausewayDigital/Minecraft-EE-Seymour-Island)

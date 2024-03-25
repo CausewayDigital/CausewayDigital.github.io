@@ -1,12 +1,12 @@
 ---
 title: Python Professional Development
-subtitle: An detailed course of professional development materials to support teachers in delivering Minecraft Education Edition based Python activities in their classrooms.
+subtitle: An detailed course of professional development materials to support teachers in delivering Minecraft Education based Python activities in their classrooms.
 image: assets/img/portfolio/python_pd.jpg
 alt: Python Professional Development
 
 caption:
   title: Python Professional Development
-  subtitle: An detailed course of professional development materials to support teachers in delivering Minecraft Education Edition based Python activities in their classrooms.
+  subtitle: An detailed course of professional development materials to support teachers in delivering Minecraft Education based Python activities in their classrooms.
   thumbnail: assets/img/portfolio/python_pd.jpg
 ---
 This major new course provides educators with the needed professional development to deliver Python based content within their classrooms. The 2 part Microsoft Learn course and 1-2 in person training course materials are designed to bring a complete beginner in using Python within Minecraft right up to a confident expert.   
@@ -19,4 +19,4 @@ The 2 courses can be accessed below
 {:.list-inline}
 - Date: March 2022 - June 2022
 - Client: Microsoft / Mojang
-- Category: Minecraft Education Edition
+- Category: Minecraft Education

@@ -21,4 +21,4 @@ The lesson and educator materials can be downloaded from the [Minecraft Educatio
 {:.list-inline}
 - Date: February 2023 - March 2023
 - Client: Mozilla Foundation
-- Category: Minecraft Education Edition
+- Category: Minecraft Education

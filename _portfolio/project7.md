@@ -21,4 +21,4 @@ The lesson and educator materials can be downloaded from the [Minecraft Educatio
 {:.list-inline}
 - Date: July 2022 - June 2023
 - Client: Florida International University - Department of Electrical and Computer Engineering
-- Category: Minecraft Education Edition
+- Category: Minecraft Education

@@ -27,5 +27,5 @@ The worlds can be downloaded from the links below
 {:.list-inline}
 - Date: June 2020 - October 2020, August 2021
 - Client: Minecraft / Mojang
-- Category: Minecraft Education Edition
+- Category: Minecraft Education
 - Source: [Github](https://github.com/CausewayDigital/Minecraft-EE-Python-Islands)

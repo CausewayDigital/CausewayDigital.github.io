@@ -1,6 +1,6 @@
 ---
 title: Notebooks Tutorials
-subtitle: A collection of tutorials for the new Python Notebooks editor within Minecraft Education Edition.
+subtitle: A collection of tutorials for the new Python Notebooks editor within Minecraft Education.
 image: assets/img/portfolio/notebooks.png
 alt: Minecraft Education Notebooks
 
@@ -9,11 +9,11 @@ caption:
   subtitle: A collection of tutorials for the new Notebooks editor.
   thumbnail: assets/img/portfolio/notebooks.png
 ---
-A collection of 18 tutorials for the Minecraft Education Edition Notebooks Python code editor. These tutorials, initially based off a set created for the Makecode platform, took significant work to translate over to this new platform.   
+A collection of 18 tutorials for the Minecraft Education Notebooks Python code editor. These tutorials, initially based off a set created for the Makecode platform, took significant work to translate over to this new platform.   
 They are now used every day by thousands of students across the world.
 
 {:.list-inline}
 - Date: June 2020
 - Client: Microsoft / Mojang
-- Category: Minecraft Education Edition
+- Category: Minecraft Education
 - Source: [Github](https://github.com/CausewayDigital/Minecraft-EE-Notebooks)
