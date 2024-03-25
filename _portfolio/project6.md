@@ -2,7 +2,7 @@
 title: AI Wildlife Park
 subtitle: An introduction to Artificial Intelligence for young children in Minecraft Education, commissioned by the Mozilla Foundation as part of the Mozilla Festival 2023.
 image: assets/img/portfolio/ai_wildlife_park.jpg
-alt: Python Professional Development
+alt: Mozilla AI Wildlife Park
 
 caption:
   title: AI Wildlife Park
