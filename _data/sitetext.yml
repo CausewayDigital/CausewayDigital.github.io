@@ -42,17 +42,17 @@ clients:
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Microsoft"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://www.microsoft.com/education
         logo: assets/img/clients/microsoft.png
       - title: "Mojang"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://www.minecraft.net
         logo: assets/img/clients/mojang.png
       - title: "Minecraft Education Edition"
-        url:
+        url: https://education.minecraft.net
         logo: assets/img/clients/minecraft_education.png
-      - title: ""
-        url:
-        logo:
+      - title: "FIU"
+        url: https://www.fiu.edu/
+        logo: assets/img/clients/FIU.png
 
 team:
     title: "The team"
