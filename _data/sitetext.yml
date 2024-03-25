@@ -6,7 +6,7 @@ header:
 
 services:
     title: "What we do"
-    text: "We build game-based learning experiences for classrooms across the world. Partnering with Mojang and Microsoft, to create exciting content for educators."
+    text: "We build game-based experiences for children across the world. Focusing primarily on learning experiences and classrooms, we're both a Minecraft Marketplace Partner and Minecraft Education Partner."
     section: services
     list:
       - title: "Educational Minecraft content creation"
@@ -16,7 +16,7 @@ services:
         desc: "With many years of coding education experience between the team, we specialise in building content to help new coders to get started quickly, through game based experiences."
         icon: fas fa-code
       - title: "Java/Bedrock Minecraft content creation"
-        desc: "As well as experience with the Education Edition of Minecraft, the team has significant experience building content for both Java and Bedrock based versions of Minecraft."
+        desc: "As well as experience with the Education version of Minecraft, we're also Minecraft Marketplace Official Partners, with significant experience building content for both Java and Bedrock based versions of Minecraft."
         icon: fas fa-cubes
 
 portfolio:
