@@ -84,19 +84,17 @@ team:
             icon: fab fa-twitter
           - url: https://github.com/Jdplays
             icon: fab fa-github
-      - name: "Sam Stuart"
+      - name: "Joseph Thomas"
         role: "Developer"
-        image: assets/img/team/sam.jpg
+        image: assets/img/team/joseph.jpg
         social:
-          - url: https://twitter.com/tenthchain
-            icon: fab fa-twitter
-          - url: https://github.com/TenthChain
+          - url: https://github.com/jcoopt
             icon: fab fa-github
-      - name: "Dan Mather"
+      - name: "George Turner"
         role: "Developer"
-        image: assets/img/team/dan.jpg
+        image: assets/img/team/george.jpg
         social:
-          - url: https://github.com/spaghettifi
+          - url: https://github.com/george308turner
             icon: fab fa-github
       - name: "Abbie Welch"
         role: "Developer"
@@ -113,6 +111,12 @@ team:
           - url: https://twitter.com/vlee888
             icon: fab fa-twitter
           - url: https://github.com/vlee489
+            icon: fab fa-github
+      - name: "Rhys Woodridge"
+        role: "Developer & Artist"
+        image: assets/img/team/rhys.jpg
+        social:
+          - url: https://github.com/RhysWooldridge
             icon: fab fa-github
       - name: "Hannah McMullan"
         role: "Developer & Artist"
@@ -135,14 +139,6 @@ team:
           - url: https://twitter.com/RaspiKidd
             icon: fab fa-twitter
           - url: https://github.com/RaspiKidd
-            icon: fab fa-github
-      - name: "Claire Mulholland"
-        role: "Storyteller"
-        image: assets/img/team/claire.jpg
-        social:
-          - url: https://twitter.com/Baker_Geek
-            icon: fab fa-twitter
-          - url: https://github.com/Zarinie
             icon: fab fa-github
 
 contact:
