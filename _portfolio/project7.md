@@ -1,24 +1,23 @@
 ---
-title: Cyber Expert
-subtitle: A 3 world series introducing students to cyber security topics including encryption, firewalls, access control and much more.
-image: assets/img/portfolio/cyber_expert.jpg
-alt: Cyber Expert
+title: Binary Springs / Circuit Central
+subtitle: A 2 part series of worlds for primary school children, focusing on where they might find computers in their day to day lives. 
+image: assets/img/portfolio/binary_central.jpg
+alt: Python Professional Development
 
 caption:
-  title: Cyber Expert
-  subtitle: A 3 world series introducing students to cyber security topics including encryption, firewalls, access control and much more.
-  thumbnail: assets/img/portfolio/cyber_expert.jpg
+  title: Binary Springs / Circuit Central
+  subtitle: A 2 part series of worlds for primary school children, focusing on where they might find computers in their day to day lives. 
+  thumbnail: assets/img/portfolio/binary_central.jpg
 ---
-Go deeper into cybersecurity and build digital fluency and cyber skills with topics like encryption and social engineering. Witness the effects of malware and learn techniques to combat it. Cyber Expert covers encryption/decryption, message integrity, DoS/DDoS attacks, Malware and Ransomware. It’s not just about warding off attacks but understanding the why and how. Protect against digital chaos, learn how to identify and remediate impacted systems, and explore career connections in cyber. 
-   
-  
-Working with Florida International University over a 9-12 month period, Causeway Digital took their vision and produced 3 standards aligned worlds that cover a number of the more advanced topics within cybersecurity. This involved working within a number of stakeholders to cover the requirements within the grant, while also building training materials to support educators within Florida to deliver the content within their classrooms.
-The project was funded by a grant through the"Cybersecurity and Information Technology Pathways Program, lead by Florida Department of Education. 
-   
-The lesson and educator materials can be downloaded from the [Minecraft Education world library](https://education.minecraft.net/en-us/discover/cyber-and-digital-safety/cyber-expert).
+
+## Binary Springs
+After a power cut in the town of Binary Springs, the player must check up on all the enbedded computers across the town. This involves discovering computers in everything from train ticket machines, games consoles and even bank ATMs.
+
+## Circuit Central
+Computer chips can be found in all our modern devices, but not all devices were created equal. In this world, the player is provided with a number of scenarios and a fixed budget for each with the task of buying the needed devices with at at least the minimum specification. This includes everything from laptops, games consoles to computer monitors and headphones.
 
 
 {:.list-inline}
-- Date: July 2022 - June 2023
-- Client: Florida International University - Department of Electrical and Computer Engineering
+- Date: May 2023 - June 2023
+- Client: Microsoft / Mojang
 - Category: Minecraft Education

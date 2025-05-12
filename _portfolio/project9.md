@@ -1,21 +1,21 @@
 ---
-title: MusicCrafter Add-On
-subtitle: A Minecraft Marketplace Add-On that lets players create, perform, and share music with interactive instruments and synchronized multiplayer jams.
-image: assets/img/portfolio/musiccrafter.jpg
-alt: MusicCrafter Add-On
+title: WorldCrafter Add-On
+subtitle: A Minecraft Marketplace Add-On terraforming toolkit that lets players shape and transform their Minecraft worlds with powerful, intuitive tools.
+image: assets/img/portfolio/worldcrafter.jpg
+alt: WorldCrafter Add-On
 
 caption:
-  title: MusicCrafter Add-On
-  subtitle: A Minecraft Marketplace Add-On that lets players create, perform, and share music with interactive instruments and synchronized multiplayer jams.
-  thumbnail: assets/img/portfolio/musiccrafter.jpg
+  title: WorldCrafter Add-On
+  subtitle: A Minecraft Marketplace Add-On terraforming toolkit that lets players shape and transform their Minecraft worlds with powerful, intuitive tools.
+  thumbnail: assets/img/portfolio/worldcrafter.jpg
 ---
-MusicCrafter transforms Minecraft into a collaborative musical playground. With six playable instruments, players can compose, save, and perform custom songs directly in-game—solo or with friends. The synchronized play mode lets groups jam together in real time, making it easy to create anything from catchy tunes to full symphonies. Seamlessly compatible with any world, MusicCrafter is a fun and innovative tool for both casual play and serious musical expression.
+WorldCrafter brings advanced terraforming capabilities directly into the Minecraft experience, giving players intuitive tools to reshape their worlds in real time. Featuring 8 powerful tools, a visual area selection system, and full undo/redo support, it makes large-scale edits fast, easy, and precise. Whether it's cloning structures, sculpting mountains, planting vast forests, or flattening land for massive builds, WorldCrafter streamlines complex tasks without leaving the game. Compatible with both new and existing worlds, it's a must-have for builders and creators. 
   
    
-The add-on can be downloaded from Minecraft Marketplace in-game or from the [Minecraft website](https://www.minecraft.net/en-us/marketplace/pdp/causeway-digital/musiccrafter-add--on/055e53c5-4824-4aad-979f-16fccd5bf388).
+The add-on can be downloaded from Minecraft Marketplace in-game or from the [Minecraft website](https://www.minecraft.net/en-us/marketplace/pdp/causeway-digital/worldcrafter-add--on/0d3853d3-d77b-482a-bf84-57776bf743f5).
 
 
 {:.list-inline}
-- Date: August 2024 - October 2024
+- Date: April 2024 - September 2024
 - Client: Causeway Digital / Minecraft Marketplace
 - Category: Minecraft Marketplace
