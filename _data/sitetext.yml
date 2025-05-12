@@ -94,6 +94,8 @@ team:
         role: "Developer"
         image: assets/img/team/george.jpg
         social:
+          - url: https://twitter.com/georget41109332
+            icon: fab fa-twitter
           - url: https://github.com/george308turner
             icon: fab fa-github
       - name: "Abbie Welch"
