@@ -13,7 +13,7 @@ Go deeper into cybersecurity and build digital fluency and cyber skills with top
    
   
 Working with Florida International University over a 9-12 month period, Causeway Digital took their vision and produced 3 standards aligned worlds that cover a number of the more advanced topics within cybersecurity. This involved working within a number of stakeholders to cover the requirements within the grant, while also building training materials to support educators within Florida to deliver the content within their classrooms.
-The project was funded by a grant through the"Cybersecurity and Information Technology Pathways Program, lead by Florida Department of Education. 
+The project was funded by a grant through the *"Cybersecurity and Information Technology Pathways Program"*, lead by Florida Department of Education. 
    
 The lesson and educator materials can be downloaded from the [Minecraft Education world library](https://education.minecraft.net/en-us/discover/cyber-and-digital-safety/cyber-expert).
 
