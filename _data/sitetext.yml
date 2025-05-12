@@ -122,6 +122,12 @@ team:
             icon: fab fa-twitter
           - url: https://github.com/HannaHGM
             icon: fab fa-github
+      - name: "Yam Willis"
+        role: "Artist"
+        image: assets/img/team/yam.jpg
+        social:
+          - url: https://github.com/amywillis
+            icon: fab fa-github
       - name: "Kerry Kidd"
         role: "Copy Editor and Playtester"
         image: assets/img/team/kerry.jpg
