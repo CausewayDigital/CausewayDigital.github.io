@@ -142,6 +142,9 @@ team:
             icon: fab fa-twitter
           - url: https://github.com/RaspiKidd
             icon: fab fa-github
+      - name: "Jessica Ballie-Whyte"
+        role: "Educational Specalist"
+        image: assets/img/team/jessica.jpg
 
 contact:
     title: "Contact Us"
