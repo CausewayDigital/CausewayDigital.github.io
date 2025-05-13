@@ -145,6 +145,9 @@ team:
       - name: "Jessica Ballie-Whyte"
         role: "Educational Specalist"
         image: assets/img/team/jessica.jpg
+        social:
+          - url: https://www.linkedin.com/in/jessica-b-368917102
+            icon: fab fa-linkedin
 
 contact:
     title: "Contact Us"
