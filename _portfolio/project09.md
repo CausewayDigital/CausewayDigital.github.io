@@ -3,6 +3,7 @@ title: WorldCrafter Add-On
 subtitle: A Minecraft Marketplace Add-On terraforming toolkit that lets players shape and transform their Minecraft worlds with powerful, intuitive tools.
 image: assets/img/portfolio/worldcrafter.jpg
 alt: WorldCrafter Add-On
+group: marketplace
 
 caption:
   title: WorldCrafter Add-On

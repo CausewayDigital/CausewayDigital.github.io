@@ -3,6 +3,7 @@ title: Detect & Diagnose
 subtitle: A Minecraft Education and Marketplace world that takes players through the process of diagnosing cancer.
 image: assets/img/portfolio/detectdiagnose.jpg
 alt: Detect & Diagnose
+group: both
 
 caption:
   title: Detect & Diagnose

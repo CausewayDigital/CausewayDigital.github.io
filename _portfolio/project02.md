@@ -3,6 +3,7 @@ title: Notebooks Tutorials
 subtitle: A collection of tutorials for the new Python Notebooks editor within Minecraft Education.
 image: assets/img/portfolio/notebooks.png
 alt: Minecraft Education Notebooks
+group: education
 
 caption:
   title: Notebooks Tutorials

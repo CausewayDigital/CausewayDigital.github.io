@@ -3,6 +3,7 @@ title: Python Islands
 subtitle: A collection of 7 lessons teaching a full introduction to Python coding.
 image: assets/img/portfolio/islands.jpg
 alt:
+group: education
 
 caption:
   title: Python Islands 1-7

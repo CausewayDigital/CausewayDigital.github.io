@@ -23,6 +23,8 @@ portfolio:
     title: "Portfolio"
     text: "Interested in some of the projects we have worked on? Take a look below."
     section: portfolio
+    education_title: "Minecraft Education Releases"
+    marketplace_title: "Minecraft Marketplace Releases"
 
 
 timeline:

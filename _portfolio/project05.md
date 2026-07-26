@@ -3,6 +3,7 @@ title: Python Professional Development
 subtitle: An detailed course of professional development materials to support teachers in delivering Minecraft Education based Python activities in their classrooms.
 image: assets/img/portfolio/python_pd.jpg
 alt: Python Professional Development
+group: education
 
 caption:
   title: Python Professional Development

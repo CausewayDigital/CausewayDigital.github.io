@@ -3,6 +3,7 @@ title: MusicCrafter Add-On
 subtitle: A Minecraft Marketplace Add-On that lets players create, perform, and share music with interactive instruments and synchronized multiplayer jams.
 image: assets/img/portfolio/musiccrafter.jpg
 alt: MusicCrafter Add-On
+group: marketplace
 
 caption:
   title: MusicCrafter Add-On

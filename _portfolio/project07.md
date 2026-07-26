@@ -3,6 +3,7 @@ title: Binary Springs / Circuit Central
 subtitle: A 2 part series of worlds for primary school children, focusing on where they might find computers in their day to day lives. 
 image: assets/img/portfolio/binary_central.jpg
 alt: Python Professional Development
+group: education
 
 caption:
   title: Binary Springs / Circuit Central

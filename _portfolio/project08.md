@@ -3,6 +3,7 @@ title: Cyber Expert
 subtitle: A 3 world series introducing students to cyber security topics including encryption, firewalls, access control and much more.
 image: assets/img/portfolio/cyber_expert.jpg
 alt: Cyber Expert
+group: education
 
 caption:
   title: Cyber Expert

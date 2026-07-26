@@ -3,6 +3,7 @@ title: Seymour Island
 subtitle: A multiplayer introduction to coding in Minecraft Education.
 image: assets/img/portfolio/seymour_island.jpg
 alt: Seymour Island Minecraft world
+group: education
 
 caption:
   title: Seymour Island

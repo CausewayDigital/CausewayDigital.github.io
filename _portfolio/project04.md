@@ -3,6 +3,7 @@ title: Python Reference Guide
 subtitle: An extensive guide covering all commands available within the Azure Notebooks Python API.
 image: assets/img/portfolio/reference_guide.jpg
 alt: Python Reference Guide
+group: education
 
 caption:
   title: Python Reference Guide
