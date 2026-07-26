@@ -9,6 +9,7 @@ caption:
   title: Detect & Diagnose
   subtitle: A Minecraft Education and Marketplace world that takes players through the process of diagnosing cancer.
   thumbnail: assets/img/portfolio/detectdiagnose.jpg
+  youtube_embed: https://www.youtube.com/embed/ZbMZoH9OtPI?si=1h4Y-DYUFI22lGHU
 ---
 Join a medical adventure in Detect & Diagnose!
 Get hands on with the amazing equipment that doctors & specialists use every day to track down cancer.

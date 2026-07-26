@@ -83,7 +83,21 @@
             <div class="modal-body">
               <h2 class="text-uppercase">{{ project.title }}</h2>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
-              <img class="img-fluid d-block mx-auto" src="{{ project.image }}" alt="{{ project.alt }}" />
+              {% if project.caption.youtube_embed %}
+                <div style="position: relative; width: 100%; padding-top: 56.25%; overflow: hidden; margin: 0 auto 1.5rem;">
+                  <iframe
+                    src="{{ project.caption.youtube_embed }}"
+                    title="{{ project.title }}"
+                    loading="lazy"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen
+                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+                  ></iframe>
+                </div>
+              {% else %}
+                <img class="img-fluid d-block mx-auto" src="{{ project.image }}" alt="{{ project.alt }}" />
+              {% endif %}
               <p>{{ project.content }}</p>
               <button class="btn btn-primary" data-dismiss="modal" type="button">
                 <i class="fas fa-times"></i>
@@ -100,3 +114,17 @@
 {% endfor %}
 
 <!-- End Portfolio Modals -->
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (!window.jQuery) {
+      return;
+    }
+
+    window.jQuery(".portfolio-modal").on("hidden.bs.modal", function () {
+      window.jQuery(this).find("iframe").each(function () {
+        this.src = this.src;
+      });
+    });
+  });
+</script>
